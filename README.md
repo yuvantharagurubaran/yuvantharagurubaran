@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi there 👋 I'm Yuvanthara Gurubaran
+First-year Computer Science @ NTU CCDS
+
+Currently learning
+Python, Linear Algebra and Discrete Math. 
+
+Reach me
+Linkedin . YUVANTHA001@e.ntu.edu.sg
 
 <!--
 **yuvantharagurubaran/yuvantharagurubaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
