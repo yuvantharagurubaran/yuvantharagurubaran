@@ -2,7 +2,7 @@ Hi there 👋 I'm Yuvanthara Gurubaran
 First-year Computer Science @ NTU CCDS
 
 Currently learning
-Python, Linear Algebra and Discrete Math. 
+Python, Linear Algebra, Digital logic and Discrete Math. 
 
 Reach me
 Linkedin . YUVANTHA001@e.ntu.edu.sg
