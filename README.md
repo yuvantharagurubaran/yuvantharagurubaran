@@ -4,7 +4,7 @@ First-year Computer Science @ NTU CCDS
 Currently learning
 Python, Linear Algebra, Digital logic and Discrete Math. 
 
-Reach me
+Reach me:
 Linkedin . YUVANTHA001@e.ntu.edu.sg
 
 <!--
